@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------
-// ArrayListMap.java          by Dale/Joyce/Weems                   Chapter 8
+// ArrayListMap.java
 //
 // Implements a map using an ArrayList.
 //
