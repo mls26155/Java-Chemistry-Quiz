@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------
-// MapEntry.java              by Dale/Joyce/Weems                   Chapter 8
+// MapEntry.java
 //
 // Provides key, value pairs for use with a Map.
 // Keys are immutable.
