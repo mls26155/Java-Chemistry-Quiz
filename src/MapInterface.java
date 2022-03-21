@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------
-// MapInterface.java           by Dale/Joyce/Weems                  Chapter 8
+// MapInterface.java
 //
 // A map provides (K = key, V = value) pairs, mapping the key onto the value.
 // Keys are unique. Keys cannot be null.
