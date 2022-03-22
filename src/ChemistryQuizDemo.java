@@ -5,7 +5,7 @@ public class ChemistryQuizDemo {
 
 	public static void main(String[] args) throws IOException {
 		
-		System.out.println("Welcome to the Chemistry Quiz. There will be 10 random questions!");
+	    System.out.println("Welcome to the Chemistry Quiz. There will be 10 random questions!");
 		
 	    MapInterface<String, String> periodicMap = new ArrayListMap<String, String>();
 
